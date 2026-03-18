@@ -65,19 +65,8 @@ This project showcases an **interactive Amazon Sales Dashboard** built using **T
 
 * Cosmetics and Office Supplies are top-performing categories in terms of revenue and profit
 
----
 
-## Dashboard Preview
 
-![Homepage](Dashboard 1.png)
-
-![Executive Dashboard](Dashboard 2.png)
-
-![Revenue Analysis](Dashboard 3.png)
-
-![Item Analysis](Dashboard 4.png)
-
----
 
 ## Key Business Insights
 
