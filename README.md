@@ -69,10 +69,13 @@ This project showcases an **interactive Amazon Sales Dashboard** built using **T
 
 ## Dashboard Preview
 
-![Homepage](images/dashboard1.png)
-![Executive Dashboard](images/dashboard2.png)
-![Revenue Analysis](images/dashboard3.png)
-![Item Analysis](images/dashboard4.png)
+![Homepage](Dashboard 1.png)
+
+![Executive Dashboard](Dashboard 2.png)
+
+![Revenue Analysis](Dashboard 3.png)
+
+![Item Analysis](Dashboard 4.png)
 
 ---
 
