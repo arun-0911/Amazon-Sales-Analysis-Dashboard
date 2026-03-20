@@ -16,8 +16,9 @@ This project showcases an **interactive Amazon Sales Dashboard** built using **T
 ---
 
 ## Dashboard Pages & Features
+![Dashboard](Dashboard.png)
 
-### 1. Homepage Overview
+### 1. AMAZON SALES ANALYSIS
 
 * Total Profit: **$788M**
 * Total Revenue: **$2.37B**
@@ -28,35 +29,11 @@ This project showcases an **interactive Amazon Sales Dashboard** built using **T
 
 * Profit by Region (Bar Chart)
 * Profit by Country (Map Visualization)
-
----
-
-###  2. Executive Dashboard
-
 * Sales Channel Analysis (Online vs Offline)
 * Orders Trend (Year-wise)
 * Order Priority Distribution
-* Total Cost Analysis (Year-wise)
-
- Key Insight:
-
-* Offline sales contribute more revenue than online sales
-
----
-
-### 3. Revenue Analysis
-
 * Revenue Trend vs Shipment Days
 * Year-wise performance comparison
-
- Key Insight:
-
-**Revenue decreases when shipment days increase**, indicating delivery efficiency impacts sales
-
----
-
-### 4. Item Analysis
-
 * Revenue Split by Product Category
 * Cost Split by Category
 * Profit Analysis by Category
